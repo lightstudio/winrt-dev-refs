@@ -2,7 +2,7 @@
 Located in Windows.Media.Core
 
 ## Description
-When a non-MP3 stream is presented, the audio won't play after pausing.(only once) After another play and puase op, it returned to normal state.
+When a non-MP3 stream is presented, the audio won't play after pausing.(only once) After another play and pause op, it returned to normal state.
 
 ## Workaround
 Try to play and pause again.
