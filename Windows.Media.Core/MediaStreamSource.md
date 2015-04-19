@@ -9,4 +9,5 @@ Try to play and pause again.
 
 ## Platform
 Confirmed in: Windows 8.0 or later, Windows Phone 8.1 or later
+
 Status: Not fixed
